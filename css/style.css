@@ -2,25 +2,18 @@
     padding: 0;
     margin: 0;
 }
-body{
-    background-color: black;
-}
+
 .plaatje >img{
     width: 700px;
-}
-nav{
-    background-color: white;
 }
 
 .container{
     width: 75%;
     margin: auto;
+    display: flex;
+    justify-content: center;
 }
 
 .container > img{
-    width: 50%;
-}
-
-h2{
-    background-color: white;
+    width: 20%;
 }
