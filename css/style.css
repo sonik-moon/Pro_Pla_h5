@@ -2,10 +2,21 @@
     padding: 0;
     margin: 0;
 }
+
 .plaatje >img{
     width: 50%;
 }
 
-img{
+
+.container{
+    width: 75%;
+    margin: auto;
+}
+
+.container > img{
     width: 50%;
+}
+
+h2{
+    background-color: red;
 }
